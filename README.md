@@ -32,3 +32,12 @@ This takes 3 inputs
 ![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/FYP%20Results.png)
 
 ### Look of WebApp 
+
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/first.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/second.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/third.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/fourth.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/fifth.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/sixth.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/seventh.png)
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/eight.png)
