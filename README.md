@@ -27,4 +27,8 @@ This takes 3 inputs
 
 ``` python FinalCode.py --source_image pathtoimage --voice male/female ``` 
 
+### Results 
+
+![alt text]("https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/FYP%20Results.png")
+
 ### Look of WebApp 
