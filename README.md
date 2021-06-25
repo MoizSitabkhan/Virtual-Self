@@ -1,4 +1,6 @@
-# Virtual-Self (A text to video Animator)
+# Virtual-Self 
+A Text to Video Animator
+
 The system creates your virtual self what is does is make an image come alive. It takes only a close-up image of you and a text input and a gender choice for the voice that you want and once done. The system will create a video of your image speaking the text that you provided and email it to you on your given email id.
 
 ### Pre-trained checkpoint
