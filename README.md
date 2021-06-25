@@ -29,6 +29,6 @@ This takes 3 inputs
 
 ### Results 
 
-![alt text]("https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/FYP%20Results.png")
+![alt text](https://github.com/MoizSitabkhan/Virtual-Self/blob/main/Images/FYP%20Results.png)
 
 ### Look of WebApp 
